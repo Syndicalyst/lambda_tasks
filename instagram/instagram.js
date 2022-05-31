@@ -53,6 +53,7 @@ const existInAllFiles = () => {
       }
     })
   });
+	
   console.log(valuesInAllFiles.size);
 }*/
 
