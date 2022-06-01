@@ -52,8 +52,7 @@ const existInAllFiles = () => {
         valuesInAllFiles.delete(elem);
       }
     })
-  });
-	
+  });	
   console.log(valuesInAllFiles.size);
 }*/
 
