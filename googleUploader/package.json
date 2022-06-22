@@ -1,0 +1,12 @@
+{
+  "name": "cli_google_uploader",
+  "version": "1.0.0",
+  "description": "Training Google API",
+  "main" : "googleUploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node googleUploader.js"
+  },
+  "author": "Syndicalyst <i.denisov@ukr.net>",
+  "license": "ISC"
+}
